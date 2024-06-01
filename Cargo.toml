@@ -1,17 +1,17 @@
 [workspace]
 resolver = "2"
 members = [
-    "bign256",
-    "bp256",
-    "bp384",
+    # "bign256",
+    # "bp256",
+    # "bp384",
     "k256",
-    "p192",
-    "p224",
-    "p256",
-    "p384",
-    "p521",
-    "primeorder",
-    "sm2"
+    # "p192",
+    # "p224",
+    # "p256",
+    # "p384",
+    # "p521",
+    # "primeorder",
+    # "sm2"
 ]
 
 [profile.dev]
